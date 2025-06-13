@@ -1,17 +1,11 @@
-Awesome! Here’s a **well-structured, professional, and beginner-friendly `README.md`** for your SkillSync project — packed with all features and explanation. You can copy this directly into your GitHub repo. 🌟
 
----
 
-## 📄 `README.md` for SkillSync: Project Idea Generator
-
-```markdown
 # 🎯 SkillSync: Project Idea Generator
 
 SkillSync is a **fun, beginner-friendly, GenAI-inspired web app** that generates unique project ideas based on your **skills, available time, and project type**.
 
 Built using **HTML, CSS, and JavaScript**, this app is perfect for students, beginners, and anyone looking to practice or build something creative in a short time.
 
----
 
 ## 🌟 Features
 
@@ -24,7 +18,6 @@ Built using **HTML, CSS, and JavaScript**, this app is perfect for students, beg
 - 📱 Fully responsive layout for all screen sizes
 - 🤩 Emoji-rich and engaging experience
 
----
 
 ## 🖥️ Technologies Used
 
@@ -49,23 +42,11 @@ Built using **HTML, CSS, and JavaScript**, this app is perfect for students, beg
 
 All logic is built to **simulate GenAI behavior** — like generating outputs from your input prompt. This makes the app feel intelligent and interactive!
 
----
 
-## 📸 Screenshots
-
-> Add screenshots after deploying the app using GitHub Pages.
-
----
 
 ## 🚀 Try it Live
 
-👉 [Live Demo on GitHub Pages](https://TejaHussain.github.io/skillsync-idea-generator) 
-
----
-
-## 📁 Folder Structure
-
-```
+👉 [Live Demo on GitHub Pages](https://Tejahussain.github.io/skillsync-idea-generator)
 
 SkillSyncProject/
 ├── index.html      # Main structure
