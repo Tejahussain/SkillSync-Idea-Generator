@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SkillSync Project Idea Generator</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <h1>🎯 SkillSync: Get a Smart Project Idea!</h1>
+
+  <form>
+    <label for="skills">Your Skills:</label>
+    <input type="text" id="skills" placeholder="e.g., HTML, CSS, JS">
+    <button type="button" onclick="startListening()">🎤</button><br><br>
+
+    <label for="time">Available Time:</label>
+    <select id="time">
+      <option value="10 minutes">10 minutes</option>
+      <option value="30 minutes">30 minutes</option>
+      <option value="1 hour">1 hour</option>
+    </select><br><br>
+
+    <label for="type">Type of Project:</label>
+    <select id="type">
+      <option value="Fun">Fun 🎉</option>
+      <option value="Creative">Creative 🎨</option>
+      <option value="Resume-worthy">Resume-worthy 💼</option>
+      <option value="One-day build">One-day build ⚡</option>
+      <option value="Mini Game">Mini Game 🎮</option>
+      <option value="Useful Tool">Useful Tool 🛠️</option>
+      <option value="AI-based">AI-based 🤖</option>
+      <option value="For Beginners">For Beginners 🐣</option>
+      <option value="For Portfolio">For Portfolio 📁</option>
+      <option value="Fun + Learning">Fun + Learning 🧠🎉</option>
+    </select><br><br>
+
+    <button type="button" onclick="generateIdea()">🎯 Suggest Idea</button>
+  </form>
+
+  <div id="resultArea"></div>
+
+  <button onclick="saveIdea()">💾 Save This Idea</button>
+  <button onclick="copyIdea()">📋 Copy Idea</button>
+
+  <script src="script.js"></script>
+</body>
+</html>
