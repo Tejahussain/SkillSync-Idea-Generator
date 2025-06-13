@@ -47,6 +47,7 @@ All logic is built to **simulate GenAI behavior** — like generating outputs fr
 ## 🚀 Try it Live
 
 👉 https://tejahussain.github.io/SkillSync-Idea-Generator/
+
 SkillSyncProject/
 ├── index.html      # Main structure
 ├── style.css       # Styling and animations
